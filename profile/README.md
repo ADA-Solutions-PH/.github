@@ -2,7 +2,7 @@
 
 Hey there 👋 We're **ADA Solutions PH** — a group of three friends from the Philippines who love building things together.
 
-We work on side projects that help us learn, grow our skills, and (hopefully) turn into something bigger one day. Think of this space as our little garage where we tinker, code, design, and experiment with dumb ideas.
+This is our digital garage where we tinker with code, design little experiments, and try to ship cool (and sometimes ridiculous) ideas. Whether it’s a tool to make life easier or just a random project we cooked up on a call — you’ll find it here.
 
 ## Who we are
 
